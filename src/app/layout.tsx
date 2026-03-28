@@ -28,6 +28,7 @@ export default function RootLayout({
     <html
       lang="ko"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased dark`}
+      style={{ colorScheme: 'dark' }}
     >
       <body className="min-h-full flex flex-col bg-background text-foreground">
         <Navbar />
