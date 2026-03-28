@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Gomsang.dev | 김상호 포트폴리오",
-  description: "곰처럼 우직한 개발자 김상호의 포트폴리오",
+  title: "Gomsang.dev | Gomsang 포트폴리오",
+  description: "곰처럼 우직한 개발자 gomsang의 포트폴리오",
 };
 
 export default function RootLayout({
@@ -36,7 +36,7 @@ export default function RootLayout({
         </main>
         <ChatBot />
         <footer className="border-t py-8 px-6 text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Kim Sang-ho. Built with Next.js.
+          © {new Date().getFullYear()} Gomsang. Built with Next.js.
         </footer>
       </body>
     </html>
