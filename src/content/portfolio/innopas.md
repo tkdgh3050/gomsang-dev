@@ -5,7 +5,7 @@ period: "2025.02 – 현재"
 role: "Frontend Developer (아키텍처 설계)"
 description: "보험 상품 개발 시 PV 산출 및 로직 검증을 수행하는 웹 기반 솔루션 개발"
 tags:
-  - "Frontend - React, TypeScript, Astro, Jotai, Tailwind"
+  - "Frontend - React, TypeScript, Astro, Tailwind"
   - "Core - CodeMirror 6, API Pipeline"
 ---
 
